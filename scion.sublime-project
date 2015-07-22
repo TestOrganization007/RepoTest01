@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "Assets/Scripts",
+			"file_exclude_patterns": ["*.meta"]
+		},
+		{
+			"path": "Assets/Standard Assets",
+			"file_exclude_patterns": ["*.meta", "*.prefab", "*.png"]
+		}
+	]
+}
